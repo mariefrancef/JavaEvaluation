@@ -10,6 +10,7 @@ package : nom.prenom
 
 ## Entité JPA :
 Créer l’entité Bike avec id, model, conceptor, releaseDate, status (ex : available, borrowed)
+
 Thymeleaf Templates : Créer des pages Thymeleaf pour lister les Bikes, ajouter, modifier, et supprimer des Bikes.
 
 
