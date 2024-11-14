@@ -9,10 +9,11 @@ package : nom.prenom
 
 
 ## Entité JPA :
-Créer l’entité Bike avec id, model, conceptor, releaseDate, status (ex : available, borrowed)Thymeleaf Templates : Créer des pages Thymeleaf pour lister les livres, ajouter, modifier, et supprimer des livres.
+Créer l’entité Bike avec id, model, conceptor, releaseDate, status (ex : available, borrowed)
+Thymeleaf Templates : Créer des pages Thymeleaf pour lister les Bikes, ajouter, modifier, et supprimer des Bikes.
 
 
-## CRUD Repositories : Créer des repositories pour gérer les opérations CRUD sur les livres.
+## CRUD Repositories : Créer des repositories pour gérer les opérations CRUD sur les Bikes.
 Services : Mettre en place un service pour encapsuler la logique métier.
 Contrôleurs : Créer des contrôleurs pour exposer les endpoints CRUD.
 
