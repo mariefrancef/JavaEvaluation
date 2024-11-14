@@ -16,6 +16,7 @@ Thymeleaf Templates : Créer des pages Thymeleaf pour lister les Bikes, ajouter,
 
 ## CRUD Repositories : Créer des repositories pour gérer les opérations CRUD sur les Bikes.
 Services : Mettre en place un service pour encapsuler la logique métier.
+
 Contrôleurs : Créer des contrôleurs pour exposer les endpoints CRUD.
 
 5 minutes avant la fin du cours, pensez à faire un commit + push. 
